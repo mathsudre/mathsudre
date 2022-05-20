@@ -1,4 +1,4 @@
-### Olá, eu sou o Matheus da Silva Sudré @mathsudre 👋
+### Olá, eu sou o Matheus Sudré @mathsudre 👋
 
 
 
