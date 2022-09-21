@@ -3,9 +3,9 @@
 
 
 
-- 🔭 Atualmente estou estudando Desenvolvimento Web na Kenzie Academy Brasil...
-- 🌱 Aprendendo HTML5 / CSS /JavaScript / POO / React.js
-- 😄 Pronouns: Ele/Dele He/Him
+- Atualmente estou estudando Desenvolvimento Web na Kenzie Academy Brasil...
+- Tecnologias HTML5 / CSS /JavaScript / Typescript / React.js
+- Pronouns: Ele/Dele He/Him
 
 
 ##
