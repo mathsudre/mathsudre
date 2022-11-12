@@ -10,11 +10,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mathsudre.mathsudre)
 
 <br />
-Ola, me chamo Matheus, sou desenvolvedor front-end e atualmente estudante de Desenvolvimento Full-stack na Kenzie Academy Brasil, sempre me interessei pela área da tecnologia mas antes de transicionar para a mesma passei um tempo cursando enfermagem mas nunca senti que fosse minha verdadeira vocação, até que em 2022 decidi perseguir meu sonho e foi onde decidi migrar para a programção mais especificamente o desenvolvimento web e conforme fui me adentrando nesse mundo me encontrei fascinado pela área e hoje não me vejo em outro lugar.
-
+Olá, me chamo Matheus, sou desenvolvedor front-end e atualmente estudante de Desenvolvimento Full-stack na Kenzie Academy Brasil, sempre me interessei pela área da tecnologia mas antes de transicionar para a mesma passei um tempo cursando enfermagem mas nunca senti que fosse minha verdadeira vocação, até que em 2022 decidi perseguir meu sonho e foi onde decidi migrar para a programção mais especificamente o desenvolvimento web e conforme fui me adentrando nesse mundo me encontrei fascinado pela área e hoje não me vejo em outro lugar.
+<br />
 Minha maior motivação para migrar de área foi durante a pandemia que se iniciou no final de 2019, nesse tempo dificil que passamos, se tornou mais evidenciado ainda a desvalorização do profissional da saúde no Brasil, e isso foi o estopim para decidir migrar e preservar minha saúde mental e o meu futuro. 
 No começo de 2022 mergulhei a fundo na área da programação onde consumi bastante conteúdo mas logo de cara percebi que era um perigo estudar sem um norte e sem orientação e foi onde encontrei a Kenzie Academy Brasil que me possibilitou estudar e viver os dois lado da moeda (Front e Back end) e aprender de forma estrurado e progressivo.
-
+<br />
 Atualmente meu objetivo principal e adentrar no mercado de trabalho, conseguindo minha primeira oportunidade como Desenvolvedor Web.
 
   <img align="right" alt="GIF" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47a7v5pssmfeqju0v1tohncpxk0rr1kn51m3fotc82&rid=giphy.gif&ct=g" width="490" height="320" />
