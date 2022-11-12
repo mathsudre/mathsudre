@@ -33,6 +33,8 @@ Atualmente meu objetivo principal e adentrar no mercado de trabalho, conseguindo
 <code><img height="20" src="https://img.icons8.com/fluency/48/000000/node-js.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/tailwind.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/next-js.png"></code>
 
 
  **Atualmente**
