@@ -21,7 +21,7 @@ Atualmente meu objetivo principal e adentrar no mercado de trabalho, conseguindo
   
   - 💼 Deseja entrar em contato ? mathsudre@gmail.com
   
-  - 💬 Me pergunte oque quiser, ficarei feliz em ajudar no que puder;
+  - 💬 Me pergunte o que desejar, ficarei feliz em responder;
   
 
 **Linguagens e ferramentas:**  
