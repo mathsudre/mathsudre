@@ -39,7 +39,7 @@ Atualmente meu objetivo principal e adentrar no mercado de trabalho, conseguindo
  
  ⏰- Trabalho: em busca de oportunidade.
 
- 📚- Estudos:  desenvolvimento web full-stack. | nodeJs express | python django 
+ 📚- Estudos:  desenvolvimento web full-stack. typescript | react | nodejs express nestjs | python django 
 
  🎮 -Lazer:    Video games / Filmes / Séries
  
