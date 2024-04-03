@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/matheus-sudre/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mathsudre.mathsudre)
