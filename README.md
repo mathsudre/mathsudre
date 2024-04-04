@@ -10,7 +10,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mathsudre.mathsudre)
 
 <br />
-"Olá, sou Matheus, um desenvolvedor FullStack. Em 2022, tomei a decisão de mudar de área e me dedicar ao desenvolvimento web. Embora sempre tenha tido interesse em tecnologia, passei um período cursando enfermagem antes de tomar essa decisão. No entanto, logo percebi que essa não era minha verdadeira vocação."
+Olá, sou Matheus, um desenvolvedor FullStack. Em 2022, tomei a decisão de mudar de área e me dedicar ao desenvolvimento web. Embora sempre tenha tido interesse em tecnologia, passei um período cursando enfermagem antes de tomar essa decisão. No entanto, logo percebi que essa não era minha verdadeira vocação.
 <br />
 Além disso, foi através da Kenzie Academy Brasil que aprofundei meus conhecimentos em desenvolvimento web, aprendendo sobre as ferramentas e linguagens mais populares nesse campo.
 <br />
