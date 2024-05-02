@@ -1,13 +1,8 @@
 ### Seja Bem vindo!
-<a href="https://www.instagram.com/mathsudre/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 
 <a href="https://www.linkedin.com/in/matheus-sudre/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=mathsudre.mathsudre)
 
 <br />
 Sou um desenvolvedor Front End com experiência na construção e manutenção de e-commerces. Trabalho com tecnologias como VTEX IO, CMS e React para criar experiências digitais envolventes e funcionais. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na minha área. Animado para contribuir para projetos inovadores e impactantes!.
