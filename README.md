@@ -10,10 +10,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mathsudre.mathsudre)
 
 <br />
-Olá, sou Matheus, um desenvolvedor FullStack. Em 2022, tomei a decisão de mudar de área e me dedicar ao desenvolvimento web. Embora sempre tenha tido interesse em tecnologia, passei um período cursando enfermagem antes de tomar essa decisão. No entanto, logo percebi que essa não era minha verdadeira vocação.
+Sou um desenvolvedor Front End com experiência na construção e manutenção de e-commerces. Trabalho com tecnologias como VTEX IO, CMS e React para criar experiências digitais envolventes e funcionais. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na minha área. Animado para contribuir para projetos inovadores e impactantes!.
+Habilidades em: HTML | CSS | JavaScript | ReactJS | NodeJS| TypeScript | SQL | Git | Github | Python | Django | VTEX IO | VTEX CMS 
 <br />
-Além disso, foi através da Kenzie Academy Brasil que aprofundei meus conhecimentos em desenvolvimento web, aprendendo sobre as ferramentas e linguagens mais populares nesse campo.
-<br />
+
 
   <img align="right" alt="GIF" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47a7v5pssmfeqju0v1tohncpxk0rr1kn51m3fotc82&rid=giphy.gif&ct=g" width="490" height="320" />
   
