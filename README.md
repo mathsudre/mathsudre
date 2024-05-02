@@ -19,28 +19,7 @@ Habilidades em: HTML | CSS | JavaScript | ReactJS | NodeJS| TypeScript | SQL | G
   
   - 💼 Deseja entrar em contato ? mathsudre@gmail.com
   
-  - 💬 Me pergunte o que desejar, ficarei feliz em responder;
-  
-
-**Linguagens e ferramentas:**  
-
-
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/typescript.png"></code>
-<code><img height="20" src="https://img.icons8.com/plasticine/100/000000/react.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/node-js.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></code>
-
-
- **Atualmente**
- 
- ⏰- Trabalho: em busca de oportunidade.
-
- 📚- Estudos:  desenvolvimento web full-stack. typescript | react | nodejs express nestjs | python django 
-
- 🎮 -Lazer:    Video games / Filmes / Séries
- 
+  - 💬 Me pergunte o que desejar, ficarei feliz em responder; 
  
 
 
