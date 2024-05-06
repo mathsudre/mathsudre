@@ -5,7 +5,7 @@
 </a>
 
 <br />
-Sou um desenvolvedor Front End com experiência na construção e manutenção de e-commerces. Trabalho com tecnologias como VTEX IO, CMS e React para criar experiências digitais envolventes e funcionais. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na minha área. Animado para contribuir para projetos inovadores e impactantes!.
+Sou um Desenvolvedor Full Stack com experiência na construção e manutenção de e-commerces. Trabalho com tecnologias como VTEX IO, CMS e React para criar experiências digitais envolventes e funcionais. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na minha área. Animado para contribuir para projetos inovadores e impactantes!.
 Habilidades em: HTML | CSS | JavaScript | ReactJS | NodeJS| TypeScript | SQL | Git | Github | Python | Django | VTEX IO | VTEX CMS 
 <br />
 
